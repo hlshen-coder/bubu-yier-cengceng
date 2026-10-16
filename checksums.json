@@ -1,0 +1,16 @@
+{
+  "pet/pet.json": "30f76e9d8e314a607e4211a6d841bde61d9bbb0cd8699483979f87d1c054df2e",
+  "pet/spritesheet.webp": "d22bd873b83c29684cea22a548b18f87769c91ce4fb0376fbf2303a07e73b49e",
+  "previews/contact.png": "1a8617dd24be456c1367cf347e349cdc0a2cd1b23e7ffb2f0ebdaa410934a455",
+  "previews/hover-hug.gif": "b0355b71b818041da4bb0c58203501f22c878ba573ceffa6540200f3bfd7020f",
+  "previews/hover-hug.webp": "0a45a5c9884461d900c879c181ec48c2283ce98fafeb2f3b452c3a43e0073563",
+  "previews/idle.gif": "825027a481e22d0184d0fd2be338b0b0c5883809a5d0c5005651a8ff0edf0202",
+  "previews/idle.webp": "8a9e790e533da4fa527272eb18e5f1d33052e3ea25c7d8e12c827d74d870c364",
+  "source/frames/0.png": "72e9a9ecd8bf592b995be2bfb84710110d3d4a5c746ae80c9311e8050a37fdc2",
+  "source/frames/1.png": "0c12fcc93e0c5fc8c54aaca6b014ddfb1bce915fef3bbd802b920999d9859c2d",
+  "source/frames/2.png": "4579919ae0bea1c18720f29814a3d51ed00df2926a80419aff91a822cdbe8ed6",
+  "source/frames/3.png": "f295ec8c1e089bd8e90b414106cb50fbd718d4ca958750e94ffb49732bb188c2",
+  "source/frames/4.png": "e3666da890362b65bd210670770d1a6f7165fe03aebebb683ec322e939c124e4",
+  "source/hug-five.png": "073a0a119a3a2e520561771a5648849f588a1a94f78437cf28587566f93fb6df",
+  "source/prompt.txt": "1056877ceacd7214a89180b77e718413bde84c87d50da84189a6e00c4afb94d9"
+}
